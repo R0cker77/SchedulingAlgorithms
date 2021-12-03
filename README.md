@@ -9,7 +9,7 @@ Priority Queue <br />
 Round Robin <br />
  <br />
 side notes:
-All alogrithms are None Preemptive
+All alogrithms are Non Preemptive. <br />
 In round robin the quantim time as defualt is 5.
 
 Live demo on replit:
